@@ -1,4 +1,4 @@
-# kubernetes-prometheus :star2::star2::star2::star2::star2:
+# kubernetes-prometheus
 
 - Prometheus从入门到精通。🌟🌟🌟🌟
 - Prometheus部署方式介绍。🌟🌟🌟🌟🌟
